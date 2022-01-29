@@ -1,0 +1,15 @@
+{
+  "name": "hovnotooling",
+  "version": "1.0.0",
+  "repository": "https://github.com/rosenbergm/hovnotooling.git",
+  "author": "Martin Rosenberg <nitram.rosenberg@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.1.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
